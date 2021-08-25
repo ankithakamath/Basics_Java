@@ -5,7 +5,7 @@ import com.yml.core.*;
 public class BasicsMain {
 
 	public static void main(String[] args) {
-		SwapTwoNum.run();
+		HarmonicNumber.run();
 
 	}
 
