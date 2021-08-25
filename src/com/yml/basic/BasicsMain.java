@@ -6,7 +6,7 @@ import com.yml.logic.*;
 public class BasicsMain {
 
 	public static void main(String[] args) {
-		PerfectNumber.run(args);
+		PrimeNumber.run(args);
 
 	}
 
