@@ -1,9 +1,11 @@
 package com.yml.basic;
 
+import com.yml.core.*;
+
 public class BasicsMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		FlipCoin.run();
 
 	}
 
