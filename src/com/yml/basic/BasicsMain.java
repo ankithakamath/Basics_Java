@@ -7,8 +7,9 @@ import com.yml.logic.*;
 
 public class BasicsMain {
 
-	public static void main(String[]args ) throws Exception {
-		StopWatch.run(args);
+	public static void main(String[]args ){
+	CouponNumber.run(args);
+	
 	
 
 }}
