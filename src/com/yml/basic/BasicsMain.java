@@ -6,7 +6,7 @@ import com.yml.logic.*;
 public class BasicsMain {
 
 	public static void main(String[] args) {
-		Fibonacci.run(args);
+		PerfectNumber.run(args);
 
 	}
 
