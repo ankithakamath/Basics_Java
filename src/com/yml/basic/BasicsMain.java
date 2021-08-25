@@ -6,7 +6,7 @@ import com.yml.function.*;
 public class BasicsMain {
 
 	public static void main(String[] args) {
-		Quadratic.run();
+		Triplets.run();
 
 	}
 
