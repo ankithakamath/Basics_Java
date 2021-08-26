@@ -10,7 +10,7 @@ import com.yml.junit.*;
  public class BasicsMain {
 
 	public static void main(String[]args ){
-	Monthlypayment.run(args);
+	ToBinary.toBinary(50);
 	
 	
 
