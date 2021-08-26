@@ -10,7 +10,7 @@ import com.yml.junit.*;
  public class BasicsMain {
 
 	public static void main(String[]args ){
-	VendingMachine.run(args);
+	Temperature.run(args);
 	
 	
 
