@@ -17,5 +17,7 @@ public final class Util {
 			
 			System.out.println("Day is " + result);
 		}
+		
+			
 	}
 
