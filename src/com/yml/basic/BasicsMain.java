@@ -10,8 +10,7 @@ import com.yml.junit.*;
  public class BasicsMain {
 
 	public static void main(String[]args ){
-	ToBinary.toBinary(50);
-	
+	Sqrt.run();
 	
 
 }}
