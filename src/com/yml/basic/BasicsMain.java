@@ -10,7 +10,7 @@ import com.yml.junit.*;
  public class BasicsMain {
 
 	public static void main(String[]args ){
-	Temperature.run(args);
+	Monthlypayment.run(args);
 	
 	
 
